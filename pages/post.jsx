@@ -75,7 +75,7 @@ export default function Post() {
   }, [user, loading]);
 
   return (
-    <div className="my-20 p-12 shadow-lg rounded-lg max-w-md mx-auto">
+    <div className="my-20 p-12 shadow-2xl rounded-lg max-w-md mx-auto">
       <form>
         <h1 className="text-2xl font-bold">
           {post.hasOwnProperty("id") ? "Edit your post" : "Create a new post"}
