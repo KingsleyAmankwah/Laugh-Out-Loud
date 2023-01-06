@@ -10,7 +10,7 @@ import {
   query,
   where,
 } from "firebase/firestore";
-import Message from "../components/Message";
+import Message from "../components/message";
 import { BsTrash2Fill } from "react-icons/bs";
 import { AiFillEdit } from "react-icons/ai";
 import Link from "next/link";
