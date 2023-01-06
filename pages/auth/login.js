@@ -34,7 +34,7 @@ export default function Login() {
       <div className="py-4">
         <h3 className="py-4">
           Welcome to LOL, this a platform where users share, discuss, post and
-          comment on memes 😅🚀
+          comment on memes 😅🚀😂🤣
         </h3>
         <button
           onClick={GoogleLogin}
