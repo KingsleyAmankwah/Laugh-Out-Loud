@@ -1,5 +1,6 @@
-
 ## :dart: About
+
+![App Image](https://user-images.githubusercontent.com/64941442/210915251-dc4520a8-3362-4b14-b38c-c315b86168ac.png)
 
 This a creative platform this a platform where users share, discuss, post and comment on memes 😅🚀😂🤣
 
