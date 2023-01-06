@@ -1,6 +1,6 @@
-## :dart: About
+![LOL](https://user-images.githubusercontent.com/64941442/210916101-ee6506ba-30c0-4f50-8de7-9023f2827b30.png)
 
-![App Image](https://user-images.githubusercontent.com/64941442/210915251-dc4520a8-3362-4b14-b38c-c315b86168ac.png)
+## :dart: About
 
 This a creative platform this a platform where users share, discuss, post and comment on memes 😅🚀😂🤣
 
