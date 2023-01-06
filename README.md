@@ -1,4 +1,3 @@
-
 ## :dart: About
 
 This a creative platform this a platform where users share, discuss, post and comment on memes 😅🚀😂🤣
@@ -14,7 +13,7 @@ This a creative platform this a platform where users share, discuss, post and co
 The following tools were used in this project:
 
 - [Next.js](https://nextjs.org)
-- [Firebase](https://nodejs.org/en/)
+- [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com)
 
