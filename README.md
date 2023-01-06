@@ -1,17 +1,19 @@
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 ![LOL](https://user-images.githubusercontent.com/64941442/210916101-ee6506ba-30c0-4f50-8de7-9023f2827b30.png)
 
->>>>>>> 32c79f4e61aa371b6e9522e878c72fef36a33c89
+> > > > > > > 32c79f4e61aa371b6e9522e878c72fef36a33c89
+
 ## :dart: About
 
 This a creative platform this a platform where users share, discuss, post and comment on memes 😅🚀😂🤣
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Google Authentication;\
+:heavy_check_mark: Create and Delete Memes;\
+:heavy_check_mark: Edit and Update Memes;\
+:heavy_check_mark: Comment on Memes;
 
 ## :rocket: Technologies
 
