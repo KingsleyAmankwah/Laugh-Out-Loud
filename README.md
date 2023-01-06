@@ -1,24 +1,3 @@
-![image](https://user-images.githubusercontent.com/55560024/170698745-72270c45-d37e-41d4-aac6-e32cab36682c.png)
-
-<a href="https://bentility.vercel.app">Demo</a>
-
-<h1 align="center">Bentility</h1>
-
-<!-- Status -->
-
-<hr>
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
-  <a href="#memo-contributors" target="_blank">Contributors</a>
-</p>
-
-<br>
 
 ## :dart: About
 
