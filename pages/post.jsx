@@ -11,6 +11,7 @@ import {
 } from "firebase/firestore";
 import { toast } from "react-toastify";
 import { RiLoader5Line } from "react-icons/ri";
+import Spinner from "../components/Spinner";
 
 export default function Post() {
   //Form state
@@ -23,6 +24,8 @@ export default function Post() {
   //Submit Post
   const submitPost = async (e) => {
     e.preventDefault();
+
+    setLoading(true);
     //Run checks for description
     if (!post.description) {
       toast.error("Description Field empty 😅", {
@@ -48,7 +51,8 @@ export default function Post() {
         username: user.displayName,
       });
       setPost({ description: "" });
-      toast.success("Post has been created 🚀", {
+      setLoading(false);
+      toast.success("Meme has been created 🚀", {
         // position: toast.POSITION.TOP_CENTER,
         autoClose: 1500,
       });
@@ -69,11 +73,13 @@ export default function Post() {
     checkUser();
   }, [user, loading]);
 
+  if (Loading) return <Spinner />;
+
   return (
     <div className="my-20 p-12 shadow-2xl rounded-lg max-w-md mx-auto">
       <form onSubmit={submitPost}>
         <h1 className="text-2xl font-bold">
-          {post.hasOwnProperty("id") ? "Edit your post" : "Create a new post"}
+          {post.hasOwnProperty("id") ? "Edit your meme" : "Create a new meme😁"}
         </h1>
         <div className="py-2">
           <h3 className="text-lg font-medium py-2">Description</h3>
@@ -95,8 +101,7 @@ export default function Post() {
           className="w-full bg-cyan-600 text-white font-medium p-2 my-2 rounded-lg text-sm disabled:bg-cyan-300 disabled:cursor-not-allowed"
           disabled={post.description.length > 300}
         >
-          {Loading && <RiLoader5Line className="animate-spin text-2xl" />}
-          {!Loading ? "Submit" : "Loading..."}
+          {post.hasOwnProperty("id") ? "Update" : "Submit 🚀"}
         </button>
       </form>
     </div>
