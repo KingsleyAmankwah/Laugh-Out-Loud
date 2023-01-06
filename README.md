@@ -1,12 +1,8 @@
-# <<<<<<< HEAD
-
 ![LOL](https://user-images.githubusercontent.com/64941442/210916101-ee6506ba-30c0-4f50-8de7-9023f2827b30.png)
-
-> > > > > > > 32c79f4e61aa371b6e9522e878c72fef36a33c89
 
 ## :dart: About
 
-This a creative platform this a platform where users share, discuss, post and comment on memes 😅🚀😂🤣
+This a creative web application platform where users share, discuss, post and comment on memes 😅🚀😂🤣
 
 ## :sparkles: Features
 
