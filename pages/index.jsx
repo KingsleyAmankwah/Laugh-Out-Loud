@@ -30,7 +30,7 @@ export default function Home() {
   if (Loading) return <Spinner />;
 
   return (
-    <>
+    <div>
       <Head>
         <title>LOL😂</title>
         <meta
@@ -56,6 +56,6 @@ export default function Home() {
           ))}
         </div>
       </main>
-    </>
+    </div>
   );
 }
