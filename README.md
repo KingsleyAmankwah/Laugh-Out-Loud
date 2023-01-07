@@ -2,7 +2,9 @@
 
 ## :dart: About
 
-This a creative web application platform where users share, discuss, post and comment on memes 😅🚀😂🤣
+This a creative web application platform where users share, discuss, post and comment on memes... 😅🚀😂🤣
+
+[Demo](https://laugh-out-loud-kingsleyamankwah.vercel.app/)
 
 ## :sparkles: Features
 
